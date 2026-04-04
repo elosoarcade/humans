@@ -8,3 +8,5 @@ If you don't want to hire them, then equip an emerald and they'll follow you, so
 ❤️ Health: 100-150 | ⚔️ Attack: 3-6
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español. 🇬🇧 🇲🇽
+
+![Humans Minecraft Bedrock add-on by El Oso Arcade](https://media.forgecdn.net/attachments/1615/524/135971-jpg.jpg)
