@@ -1,0 +1,63 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "eoa:human",
+            "min_engine_version": "1.8.0",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "human_1": "textures/entity/human_1",
+                "human_2": "textures/entity/human_2",
+                "human_3": "textures/entity/human_3",
+                "human_4": "textures/entity/human_4",
+                "human_5": "textures/entity/human_5",
+                "human_6": "textures/entity/human_6",
+                "human_7": "textures/entity/human_7",
+                "human_8": "textures/entity/human_8",
+                "human_9": "textures/entity/human_9",
+                "human_10": "textures/entity/human_10"
+            },
+            "geometry": {
+                "default": "geometry.humanoid.customSlim"
+            },
+            "spawn_egg": {
+                "base_color": "#ffcf00",
+                "overlay_color": "#ffcf00"
+            },
+            "scripts": {
+                "pre_animation": [
+                    "variable.tcos0 = (Math.cos(query.modified_distance_moved * 38.17) * query.modified_move_speed / variable.gliding_speed_value) * 57.3;"
+                ]
+            },
+            "animations": {
+                "look_at_target_default": "animation.humanoid.look_at_target.default",
+                "move": "animation.humanoid.move",
+                "riding.arms": "animation.humanoid.riding.arms",
+                "riding.legs": "animation.humanoid.riding.legs",
+                "move.arms": "animation.player.move.arms",
+                "holding": "animation.humanoid.holding",
+                "sneaking": "animation.humanoid.sneaking",
+                "bob": "animation.humanoid.bob",
+                "player_attack_bare_hand": "animation.player.attack_bare_hand",
+                "attack.positions": "animation.player.attack.positions",
+                "attack.rotations": "animation.humanoid.attack.rotations",
+                "swimming": "animation.zombie.swimming"
+            },
+            "animation_controllers": [
+                { "look_at_target": "controller.animation.humanoid.look_at_target" },
+                { "move": "controller.animation.humanoid.move" },
+                { "riding": "controller.animation.humanoid.riding" },
+                { "holding": "controller.animation.humanoid.holding" },
+                { "attack": "controller.animation.humanoid.attack" },
+                { "sneaking": "controller.animation.humanoid.sneaking" },
+                { "bob": "controller.animation.humanoid.bob" }
+            ],
+            "render_controllers": [
+                "controller.render.human"
+            ],
+            "enable_attachables": true
+        }
+    }
+}
