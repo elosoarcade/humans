@@ -9,4 +9,4 @@ If you don't want to hire them, then equip an emerald and they'll follow you, so
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español. 🇬🇧 🇲🇽
 
-![Humans Minecraft Bedrock add-on by El Oso Arcade](https://media.forgecdn.net/attachments/1615/524/135971-jpg.jpg)
+<img width="1200" height="675" alt="Copia de Copia de addon-cover_20260425_151428_0000" src="https://github.com/user-attachments/assets/3193f403-20f2-493b-92e8-e787536a4fe3" />
