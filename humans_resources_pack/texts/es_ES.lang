@@ -1,12 +1,5 @@
 entity.eoa:human.name=Humano
 item.spawn_egg.entity.eoa:human.name=Huevo generador de humano
-item.eoa:dungeon_sword=Espada de mazmorra
-item.eoa:astral_apple=Manzana astral
-item.eoa:sapphire=Zafiro
-item.eoa:sapphire_shard=Fragmento de zafiro
-item.eoa:crude_ore=Mineral bruto
-item.eoa:crude_ore_shard=Fragmento de mineral bruto
-item.eoa:rusted_iron_ingot=Lingote de hierro oxidado
 action.interact.tame=Ofrecer
 action.interact.sit=Quieto
 action.interact.stand=Sígueme

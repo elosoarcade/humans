@@ -1,12 +1,5 @@
 entity.eoa:human.name=Human
 item.spawn_egg.entity.eoa:human.name=Spawn Human
-item.eoa:dungeon_sword=Dungeon Sword
-item.eoa:astral_apple=Astral Apple
-item.eoa:sapphire=sapphire
-item.eoa:sapphire_shard=Sapphire Shard
-item.eoa:crude_ore=Crude Ore
-item.eoa:crude_ore_shard=Crude Ore Shard
-item.eoa:rusted_iron_ingot=Rusted Iron Ingot
 action.interact.tame=Offer
 action.interact.sit=Stay
 action.interact.stand=Follow

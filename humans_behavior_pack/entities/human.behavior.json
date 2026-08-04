@@ -14,7 +14,7 @@
                "slot_drop_chance":[
                   {
                      "slot":"slot.weapon.mainhand",
-                     "drop_chance":0
+                     "drop_chance":1.0
                   }
                ]
             }
@@ -172,7 +172,7 @@
                            "test":"is_family",
                            "subject":"other",
                            "value":"faceless"
-                        },                        
+                        },
                         {
                            "test":"is_family",
                            "subject":"other",
@@ -251,8 +251,107 @@
                
             }
          },
+         "minecraft:shareables":{
+            "items":[
+               {
+                  "item":"minecraft:netherite_sword",
+                  "priority":0,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:netherite_axe",
+                  "priority":0,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:diamond_sword",
+                  "priority":1,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:diamond_axe",
+                  "priority":1,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:iron_sword",
+                  "priority":2,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:iron_axe",
+                  "priority":2,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:golden_sword",
+                  "priority":3,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:golden_axe",
+                  "priority":3,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:copper_sword",
+                  "priority":4,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:copper_axe",
+                  "priority":4,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:stone_sword",
+                  "priority":5,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:stone_axe",
+                  "priority":5,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:wooden_sword",
+                  "priority":6,
+                  "want_amount":1,
+                  "surplus_amount":0
+               },
+               {
+                  "item":"minecraft:wooden_axe",
+                  "priority":6,
+                  "want_amount":1,
+                  "surplus_amount":0
+               }
+            ]
+         },
          "minecraft:behavior.equip_item":{
             "priority":3
+         },
+         "minecraft:behavior.pickup_items":{
+            "priority":6,
+            "max_dist":10,
+            "goal_radius":2,
+            "speed_multiplier":1.0,
+            "pickup_based_on_chance":false,
+            "can_pickup_any_item":false,
+            "excluded_items":[
+               "minecraft:banner:15"
+            ]
          },
          "minecraft:behavior.melee_box_attack":{
             "can_spread_on_fire":true,

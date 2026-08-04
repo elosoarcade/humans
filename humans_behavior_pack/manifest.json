@@ -4,7 +4,7 @@
 		"name": "Humans (B)",
 		"description": "Add humans to Bedorock by El Oso Arcade",
 		"uuid": "3b2e277e-c3f5-c969-aa21-75f98cdee064",
-		"version": [2, 1, 0],
+		"version": [3, 0, 0],
 		"min_engine_version": [1, 20, 0]
 	},
 	"metadata": {
@@ -16,7 +16,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [2, 1, 0],
+			"version": [3, 0, 0],
 			"uuid": "398f05bd-b408-14fa-f0e3-043f0ee570ef",
 			"type": "data"
 		}
@@ -24,7 +24,7 @@
 	"dependencies": [
 		{
 			"uuid": "f3c1c9d0-9c2f-52a4-6b0c-e6bc167ed928",
-			"version": [2, 1, 0]
+			"version": [3, 0, 0]
 		}
 	]
 }
