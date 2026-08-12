@@ -1,0 +1,5 @@
+entity.eoa:human.name=Человек
+item.spawn_egg.entity.eoa:human.name=Яйцо призыва человека
+action.interact.tame=Предложить
+action.interact.sit=Стой
+action.interact.stand=За мной

@@ -1,0 +1,5 @@
+entity.eoa:human.name=Mensch
+item.spawn_egg.entity.eoa:human.name=Mensch-Spawn-Ei
+action.interact.tame=Anbieten
+action.interact.sit=Bleib hier
+action.interact.stand=Folge mir

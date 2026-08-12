@@ -1,0 +1,5 @@
+entity.eoa:human.name=Umano
+item.spawn_egg.entity.eoa:human.name=Uovo generatore di umano
+action.interact.tame=Offri
+action.interact.sit=Fermo lì
+action.interact.stand=Seguimi

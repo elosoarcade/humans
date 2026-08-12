@@ -1,0 +1,5 @@
+entity.eoa:human.name=Humano
+item.spawn_egg.entity.eoa:human.name=Ovo de Invocação de Humano
+action.interact.tame=Oferecer
+action.interact.sit=Fica aí
+action.interact.stand=Me segue

@@ -1,0 +1,5 @@
+entity.eoa:human.name=인간
+item.spawn_egg.entity.eoa:human.name=인간 생성 알
+action.interact.tame=제공
+action.interact.sit=가만히 있어
+action.interact.stand=따라와

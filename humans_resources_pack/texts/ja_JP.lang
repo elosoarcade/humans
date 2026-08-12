@@ -1,0 +1,5 @@
+entity.eoa:human.name=人間
+item.spawn_egg.entity.eoa:human.name=人間のスポーンエッグ
+action.interact.tame=提供する
+action.interact.sit=待て
+action.interact.stand=ついてこい

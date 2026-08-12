@@ -1,0 +1,5 @@
+entity.eoa:human.name=Humain
+item.spawn_egg.entity.eoa:human.name=Oeuf d'apparition d'humain
+action.interact.tame=Offrir
+action.interact.sit=Reste là
+action.interact.stand=Suis-moi

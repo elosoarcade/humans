@@ -15,11 +15,11 @@
           "adjust_for_weather": false
         },
         "minecraft:weight": {
-          "default": 2
+          "default": 1
         },
         "minecraft:herd": {
           "min_size":1,
-          "max_size":3
+          "max_size":2
         },
     
         "minecraft:biome_filter": {

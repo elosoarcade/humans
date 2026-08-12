@@ -1,0 +1,5 @@
+entity.eoa:human.name=人类
+item.spawn_egg.entity.eoa:human.name=人类刷怪蛋
+action.interact.tame=提供
+action.interact.sit=别动
+action.interact.stand=跟我来
