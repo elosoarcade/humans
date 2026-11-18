@@ -13,4 +13,4 @@ If you don't want to hire them, then equip an emerald and they'll follow you, so
 
 _This add-on is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and it's available in English, Español, Português, Français, Italiano, Deutsch, Русский, 日本語, 한국어, and 中文._  🇬🇧 🇲🇽 🇧🇷 🇨🇵 🇮🇹 🇩🇪 🇷🇺 🇯🇵 🇰🇷 🇨🇳
 
-<img width="1200" height="675" alt="humans-cover_20260901_155219_0000" src="https://github.com/user-attachments/assets/8739136f-1283-4b58-ba40-8b9fd4581246" />
+<img width="1200" height="675" alt="humans-cover_20261118_161637_0000" src="https://github.com/user-attachments/assets/1b43afeb-4e72-4425-8a3a-465f1e1a2d53" />
