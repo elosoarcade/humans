@@ -18,7 +18,8 @@
                 "human_8": "textures/entity/human_8",
                 "human_9": "textures/entity/human_9",
                 "human_10": "textures/entity/human_10",
-                "human_11": "textures/entity/human_11"              
+                "human_11": "textures/entity/human_11",
+                "human_12": "textures/entity/human_12"                  
             },
             "geometry": {
                 "default": "geometry.humanoid.customSlim"
